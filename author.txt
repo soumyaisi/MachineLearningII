@@ -1,0 +1,2 @@
+Name of the book:Deep_Learning_NLP
+Name of the author: Palash Goyal Sumit Pandey Karan Jain
